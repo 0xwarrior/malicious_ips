@@ -4,4 +4,4 @@ This repository contains a list of IP addresses that have exhibited suspicious o
 
 ## Related  work
 
-[emerginf threats blocklist](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
+[emerging threats blocklist](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
