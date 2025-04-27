@@ -1,3 +1,7 @@
 # Records of malicious IPs
 
 This repository contains a list of IP addresses that have exhibited suspicious or malicious behavior (primarily scanning activities) within my personal lab environment; while sharing for informational purposes, I make no guarantees regarding accuracy or completeness, and users should verify findings independently before taking action.
+
+## Related  work
+
+[emerginf threats blocklist](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
