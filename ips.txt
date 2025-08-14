@@ -1,5 +1,5 @@
 # Malicious IPs
-# Last updated: 2025-08-14 20:59:04
+# Last updated: 2025-08-14 21:00:10
 
 1.0.136.169
 1.0.159.77
