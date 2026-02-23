@@ -1,5 +1,5 @@
 # Malicious IPs
-# Last updated: 2026-02-23 10:57:38
+# Last updated: 2026-02-23 11:00:09
 # Total IPs: 112104
 
 1.0.0.1
