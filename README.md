@@ -92,7 +92,6 @@ Open an issue or PR with:
 [ ALL QUIET ON THE WIRE... FOR NOW ]
 ```
 
-*Built by a SOC operator, for SOC operators.*  
 *Trust nothing. Verify everything. Log it all.*
 
 </div>
