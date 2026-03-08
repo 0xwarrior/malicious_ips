@@ -24,7 +24,9 @@
 ## ⚠ ADVISORY
 
 > **This repository documents IP addresses observed conducting hostile activity — primarily reconnaissance, scanning, and probing — within a controlled lab environment.**  
-> All entries represent **first-hand observations**. No guarantees are made regarding completeness or ongoing accuracy. **Verify independently before operationalizing.**
+> All entries represent **first-hand observations**. No guarantees are made regarding completeness or ongoing accuracy.
+>
+> **Verify independently before operationalizing.**
 
 ---
 
