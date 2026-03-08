@@ -10,7 +10,7 @@
    ╚═════╝ ╚═╝  ╚═╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-### `// THREAT INTELLIGENCE — HOSTILE IP REGISTRY`
+### `THREAT INTELLIGENCE — HOSTILE IP REGISTRY`
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE_MONITORING-red?style=flat-square&labelColor=0d0d0d&color=ff2222)
 ![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-ELEVATED-orange?style=flat-square&labelColor=0d0d0d&color=ff6600)
