@@ -40,8 +40,7 @@ Every IP in this list did something to earn its place here.
 ├── Port scanning / service enumeration
 ├── Brute-force attempts (SSH, RDP, HTTP)
 ├── Vulnerability probing (CVE-targeted payloads)
-├── Credential stuffing
-└── C2 callback attempts
+└── Credential stuffing
 ```
 
 This is **not a curated third-party feed** — it's raw, first-hand signal.
