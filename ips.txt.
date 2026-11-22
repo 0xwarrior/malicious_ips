@@ -1,9 +1,10 @@
 # Malicious IPs
-# Last updated: 2026-11-15 20:57:32
-# Total IPs: 15
+# Last updated: 2026-11-22 09:21:50
+# Total IPs: 16
 
 ## SMTP
 ## rest ports
+10.0.2.2
 10.0.3.2
 23.92.21.204
 23.92.65.32
